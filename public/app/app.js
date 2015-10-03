@@ -1,4 +1,4 @@
-var app = angular.module("Bootstrap",[
-	"Bootstrap.directives",
-	"ngSanitize"
+var app = angular.module("Bootstrap", [
+    "Bootstrap.directives",
+    "ngSanitize"
 ]);
